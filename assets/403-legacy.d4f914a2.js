@@ -1,0 +1,1 @@
+System.register(["./vendor-legacy.d203c633.js"],(function(e){"use strict";var t;return{setters:[function(e){t=e.R}],execute:function(){e("default",(function(){return t.createElement(t.Fragment,null,"您没有权限查看本页面")}))}}}));
